@@ -1,0 +1,1 @@
+ifconfig |grep "Ethernet" |cut -d " " -f 10
